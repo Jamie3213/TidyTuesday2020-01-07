@@ -1,4 +1,4 @@
-Tidy Tuesday - Australia Fires
+Australia Fires
 ================
 Jamie Hargreaves
 
